@@ -75,3 +75,5 @@ Regularization-ის დამატებამ უკეთესი შე�
 * model_inference.ipynb - mlflow-დან მომაქვს საბოლოოდ შერჩეული მოდელი და ვაგზავნი kaggle competition-ზე.
 
 * README.md - მთლიანი პროცესის სიტყვიერი აღწერა.
+
+* Regularization Plot - გვიჩვენებს Regularization Lambda constant-ის დამოკიდებულებას RMSE_LOG score-ზე საბოლოო მოდელში
